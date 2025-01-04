@@ -28,7 +28,7 @@
 ---
 
 ### 🌐 How to Reach Me
-- 📫 Email: [your.email@example.com](mailto:janguk5362@gmail.com)
+- 📫 Email: [janguk5362@gmail.com](mailto:janguk5362@gmail.com)
 
 ---
 
