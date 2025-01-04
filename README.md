@@ -6,7 +6,20 @@
   - **2nd Major**: Applied Statistics, Kyonggi University  
 
 - 🎯 **Current Activity**:  
-  Participating in the **KT AIVLE School**, a program by KT aimed at nurturing AI engineers.  
+  Participating in the **KT AIVLE School**, a program by KT aimed at nurturing AI engineers.
+
+  ### 🏆 Projects and Experiences at KT AIVLE School
+During my time at **KT AIVLE School**, I have been involved in a variety of projects and hands-on learning experiences, including:  
+- **Data Preprocessing and Insight Extraction**:  
+  Gained a deep understanding of the importance of cleaning, transforming, and preparing data to derive actionable insights.  
+- **Machine Learning and Deep Learning Models**:  
+  Developed predictive models using both traditional machine learning and deep learning techniques, fine-tuning pretrained models to align with specific project goals.  
+- **API Integration and Fine-Tuning**:  
+  Integrated APIs to utilize pretrained models, customizing them through fine-tuning for optimal performance in real-world scenarios.  
+- **Database Management**:  
+  Learned and applied basic SQL queries using **MySQL** for data manipulation and analysis.  
+- **Model Deployment**:  
+  Experienced deploying AI solutions using **Docker**, ensuring scalability and accessibility for end users.
 
 ---
 
