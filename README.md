@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Jang-Uk-5362/Jang-Uk-5362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 About Me
+- 🎓 **Education**: 
+  - **1st Major**: Chemistry, Kyonggi University  
+  - **2nd Major**: Applied Statistics, Kyonggi University  
 
-Here are some ideas to get you started:
+- 🎯 **Current Activity**:  
+  Participating in the **KT AIVLE School**, a program by KT aimed at nurturing AI engineers.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Skills and Experience
+- 💡 **AI/ML Knowledge**:
+  - Foundations of Machine Learning and Deep Learning
+  - Data Preprocessing and Insight Extraction
+  - AI Modeling and Deployment (using Docker)
+  - Hands-on experience with various projects
+
+- 🛠 **Technical Skills**:
+  - Programming Languages: Python, HTML
+  - Tools & Platforms: Docker  
+
+- 🌱 **Interests**:
+  - **Natural Language Processing (NLP)**  
+  - **Retrieval-Augmented Generation (RAG)** and other language intelligence AI technologies  
+
+---
+
+### 🌐 How to Reach Me
+- 📫 Email: [your.email@example.com](mailto:janguk5362@gmail.com)
+
+---
+
+⚡ **Fun Fact**: I love discovering innovative ways to combine data with AI to create impactful solutions!
