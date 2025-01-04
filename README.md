@@ -20,12 +20,13 @@
 - 🛠 **Technical Skills**:
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  - Tools & Platforms: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  - Tools & Platforms:
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - 🌱 **Interests**:
+  - **Data Preprocessing** 
   - **Natural Language Processing (NLP)**  
   - **Retrieval-Augmented Generation (RAG)** and other language intelligence AI technologies
-  - Data Preprocessing
 
 ---
 
