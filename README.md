@@ -42,7 +42,8 @@
 - 🌱 **관심 분야**:  
   - **데이터 전처리**  
   - **자연어 처리 (NLP)**  
-  - **RAG (Retrieval-Augmented Generation)** 및 기타 언어 지능 AI 기술  
+  - **RAG (Retrieval-Augmented Generation)** 및 기타 언어 지능 AI 기술
+  - **LangChain**   
 
 ---
 
